@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0C7C59;
+}
+.main{
+    background-color: #F7B32B ;
+    display : flex ; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+    width : 60vw ; 
+    height : 70vh ; 
+    margin : 15vh 0vh 0vh 0vh ; 
+    border : 3px solid #BAC1B8 ; 
+}
+input{
+    width : 60% ; 
+    height : 40% ; 
+}
+span{
+    width : 60vw ; 
+    height : 20vh ; 
+    paddding : 0vh 10vh 10vh 0vw;
+}
+label{
+    padding : 5vh 5vw 5vh 5vw ; 
+}
